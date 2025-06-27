@@ -1,4 +1,3 @@
-# Public Docs: https://docs.snowflake.com/LIMITEDACCESS/snowflake-cortex/rest-api/cortex-analyst
 # This demo is not supported in SiS. You must run this streamlit locally.
 
 import json
